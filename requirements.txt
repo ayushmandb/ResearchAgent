@@ -1,0 +1,11 @@
+langgraph>=0.2.0
+groq
+openai
+requests
+numpy
+tavily-python
+streamlit
+python-dotenv
+pydantic>=2.0
+pypdf
+langsmith
