@@ -23,7 +23,6 @@ Adding a new worker later:
 """
 
 import os 
-import wikipedia
 from tavily import TavilyClient
 from llm import call_llm
 from state import Document
